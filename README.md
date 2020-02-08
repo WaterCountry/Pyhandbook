@@ -1,4 +1,4 @@
-# ![title](python.jpg) Python 学生手册
+# ![title](python.jpg) Python 自学手册
 
 ## 前言
 
