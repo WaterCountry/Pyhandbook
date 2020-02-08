@@ -22,6 +22,6 @@
 
 众志成城，抗击疫情，万众一心，春暖花开！
 
-## 点击在线学习:  [Python自学手册](https://github.com/WaterCountry/Pyhandbook/Python自学手册.md)
+## 点击在线学习:  [Python自学手册](https://github.com/WaterCountry/Pyhandbook/Python自学手册.html)
 
 ----
