@@ -1,4 +1,4 @@
-# ![title](python.jpg) Python 自学手册
+# ![title](img/python.png) Python 自学手册
 
 ## 前言
 
@@ -16,14 +16,12 @@
 
 
 
-
-
-
+---
 
 笔名：温州水乡 初中信息技术教师  2020年2月8日  版权保留，请勿转载！
 
 众志成城，抗击疫情，万众一心，春暖花开！
 
-在线阅读 https://github.com/WaterCountry/Pyhandbook
+## 点击在线学习:  [Python自学手册](https://github.com/WaterCountry/Pyhandbook/Python自学手册.md)
 
 ----
