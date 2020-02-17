@@ -9,7 +9,7 @@
 
 ​		前1~9课为语法部分，使用交互解释器学习python语言的基本语法。
 
-​		后10~22课为应用部分，使用编辑器编写小段程序，掌握常用的python内置函数、模块和库。
+​		后10~24课为应用部分，使用编辑器编写小段程序，掌握常用的python内置函数、模块和库。
 
 ​		**学习建议**：
 
@@ -25,4 +25,6 @@
 
 众志成城，抗击疫情，万众一心，春暖花开！
 
-在线阅读 https://watercountry.github.io/Pyhandbook/
+在线阅读 ：https://watercountry.github.io/Pyhandbook/
+
+下载阅读：[Python自学手册.pdf](https://github.com/WaterCountry/Pyhandbook/files/4212092/Python.pdf)
